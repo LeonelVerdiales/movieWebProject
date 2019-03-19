@@ -1,0 +1,10 @@
+@import "https://use.fontawesome.com/releases/v5.7.2/css/all.css";
+
+h2{
+    font-family: 'Merriweather Sans', sans-serif;
+}
+
+.loginform{
+    margin-left: 20%;
+    margin-right: 20%;
+}

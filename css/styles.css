@@ -1,0 +1,24 @@
+
+/*Movie data*/
+td ul li{
+    list-style: none;
+    font-family: 'Merriweather Sans', sans-serif;
+    line-height: 1.5;
+}
+
+td ul li p{
+    font-weight: bolder;
+    font-size: 2rem;
+}
+
+/*Movie image*/
+.movieImage{
+    float: left;
+}
+
+/*Movie container*/
+.movieContainer{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
