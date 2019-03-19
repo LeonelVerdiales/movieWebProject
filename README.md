@@ -4,7 +4,7 @@
 
 #Instrucciones de instalación en WINDOWS:
 
-#1.- Instalar XAMPP 7.2.4
+#1.- Instalar XAMPP 7.2.4 \n
 #2.- Iniciar XAMPP y activar las opciones de APACHE Y MYSQL
 #3.- Copiar la carpeta del proyecto dentro de la carpeta htdocs de la dirección de xampp
 #4.- Abrir tu navegador y poner en la barra de direccion "http://localhost/phpmyadmin/" (sin las comillas)
